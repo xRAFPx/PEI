@@ -28,7 +28,7 @@ José Parpot | pg41848
 Rafaela de Pinho | pg41095
 João Aloísio | a77953
 João de Macedo | a76268
-Laércio Sartori | pg39291
+Laercio Sartori | pg39291
 Ricardo Ponte | a79097
 Nelson Gonçalves | a78173
 Caroline Rodrigues | pg39285
