@@ -35,8 +35,8 @@ Caroline Rodrigues | pg39285
 Carlos Monteiro | pg41068
 
 ### Links úteis
-[Portfólio Digital](https://pg39296.wixsite.com/bepro)
+* [Portfólio Digital](https://pg39296.wixsite.com/bepro)
 
-[Relatório]()
+* [Relatório]()
 
-[Desenvolvimento](./Desenvolvimento)
+* [Desenvolvimento](./Desenvolvimento)
