@@ -3,6 +3,11 @@
 Este repositório relata o desenvolvimento da plataforma BePRO, desenvolvido pela equipa Virtutem para a Unidade Curricular de Projeto em Engenharia Informática.
 
 O trabalho foi desenvolvido a partir da tecnologia Outsystems, que permite criar projetos informáticos com *low code*.
+
+<p align="center">
+  <img src="./BePro12.png" width="350" title="Logo BePRO">
+</p>
+
 ## Propósito do BePRO
 A BePRO surge como uma solução para um problema muito comum que afeta a maior parte dos estudantes universitários quando querem fazer o salto para o mercado de trabalho, sem que consigam apresentar as suas habilidades a empresas a que se candidatam. Durante o seu percurso universitário, os estudantes adquirem um vasto conjunto de conhecimentos e habilidades técnicas que lhes serão essenciais para as suas futuras carreiras profissionais, mas sem maneira de demonstrar os conhecimentos que adquiriram.
 
@@ -34,4 +39,4 @@ Carlos Monteiro | pg41068
 
 [Relatório]()
 
-[Desenvolvimento](https://github.com/xRAFPx/PEI/tree/main/Desenvolvimento)
+[Desenvolvimento](./Desenvolvimento)
