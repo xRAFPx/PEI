@@ -1,0 +1,108 @@
+https://udm-tst.outsystemsenterprise.com/Student_UI/?_ts=637474362707916806
+
+Empresa:
+
+Criar conta utilizador empresa e posteriormente criar a empresa 
+
+Utilizador:
+Marco Paulo
+marcopaulo@marco.com (marcopaulo1381@gmail.com)
+917750912
+marcopaulo.linked.com
+marcopaulo.github.com
+Manager
+O meu nome é Marco Paulo, nasci em Santarém há 25 anos. Um dos meus objetivos na vida é ajudar as pessoas a comunicar melhor umas com as outras. Neste momento trabalho para a empresa Apple como manager.
+virtutem
+
+Empresa Apple
+
+Apple
+500100200
+https://www.linkedin.com/company/apple/
+https://www.apple.com/pt/
+We’re a diverse collective of thinkers and doers, continually reimagining what’s possible to help us all do what we love in new ways. And the same innovation that goes into our products also applies to our practices — strengthening our commitment to leave the world better than we found it. This is where your work can make a difference in people’s lives. Including your own.
+Fazer referencia ao aviso que os dados serão publicos
+Confirmar no email 
+Entrar com a conta criada e criar um projeto "Pretende-se candidatos motivados em trabalhar neste projeto, com caraterísticas ambiciosas em querer sempre aprender mais."
+Verificar o projeto de projetos em candidatura
+Ir ao meu perfil e editar o perfil inserindo uma foto
+
+Estudante:
+Criar conta estudante
+Utilizador:
+Pedro Amorim
+pedro@pedro.com(pedroamorim1381@gmail.com)
+918323132
+https://www.linkedin.com/in/pedro-amorim-7a5580205/
+https://github.com/kentcz/rapl-tools
+O meu nome é Pedro Amorim, nasci em Braga há 25 anos. Um dos meus objetivos na vida é ajudar as pessoas. Neste momento procuro aumentar os meus conhecimentos.
+pedroamorim
+Confirmar no email a conta
+Ir ao meu perfil e editar o perfil inserindo uma foto
+Ir a lista de projetos e procurar pelo o projeto criado pela empresa
+Mostrar os detalhes e Candidatar Motivo: "Tenho bastante interesse nesta área e gostaria de aprofundar mais o meu conhecimento!"
+Adicionar um ficheiro qualquer
+Cancelar a candidatura e voltar a fazer
+Ir aos meus projetos e mostrar a candidatura feita
+
+Estudante 2:
+elisia@estudantes.com
+virtutem
+Usar outro estudante já criado e candidatar ao mesmo projeto 
+
+Estudante 3: 
+ xiliyue@estudantes.com 
+ Virtutem
+Usar outro estudante já criado e candidatar ao mesmo projeto 
+
+Estudante 4: 
+franciscodasilva@estudantes.com
+Virtutem
+Usar outro estudante já criado e candidatar ao mesmo projeto 
+
+Empresa:
+Ir a empresa e mostrar a lista de candidatos
+Mostrar a lista de estudantes recomendados (explicar o que acontece dizer que podemos convidar onde o estudante recebe um email para se ir candidatar ao projeto caso esteja interessado)
+Ver detalhes de cada estudante : historico, cv, perfil
+Rejeitar um estudante e escrever : "Inapto para qualificações que procuramos"
+Aceitar dois candidatos e mostrar que o projeto passa a EmCurso
+Mostrar que os restantes candidatos são rejeitados automaticamente
+
+Estudante:
+
+Mostrar os detalhes do projeto ao estar Em curso
+
+Empresa:
+Ir a empresa e finalizar o projeto e Dar feedback aos estudantes : "Estudante foi empenhado e sempre disponivel a novos desafios que foram aparecendo no projeto! Apesar das dificuldades encontradas não desistiu e conseguiu ultrapassa los!"
+Mostrar o feedback dado
+
+Estudante:
+Mostrar notificação que é necessário dar feedback no projeto :"Sempre prestáveis onde com este projeto consegui adquirir novos conhecimentos e sinto que estou muito mais preparado para o mercado trabalho! Obrigado!"
+
+Estudante 2:
+Mostrar notificação que é necessário dar feedback no projeto :"Sempre prestáveis onde com este projeto consegui adquirir novos conhecimentos e sinto que estou muito mais preparado para o mercado trabalho! Obrigado!"
+
+Estudante:
+
+Mostrar que após o projeto ter todos os feedbacks fica finalizado e só assim se consegue obter o certificado
+Fazer download do feedback (demora algum tempo!)
+Ir ao meu perfil e mostrar a review inserida lá 
+
+
+Ver o feedback recebido pela empresa
+
+Empresa:
+Verificar que está a finalizado
+Verificar o feedback recebido pelo estudante
+Ir ao meu perfil e mostrar a review inserida lá 
+Mostrar a listagens de empresas e estudantes
+
+Estudante:
+Ir a listagem de empresas e verificar os projetos criados pela mesma e verificar as reviews
+
+_____________________________________________
+
+
+Caso 2:
+
+Outra empresa em que um estudante tenha recebido o email de convite 
